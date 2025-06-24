@@ -6,15 +6,10 @@ Beginner ML project using a linear regression model to predict how many medals a
 - Scikit-learn (Linear Regression)
 - Google Colab
 
-## 📈 Project Output
-- R² Score: 0.90 ✅
-- MAE: ~4 medals
+## Project Output
+- R² Score: 0.90 
+- MAE:  Approximately 4 medals
 
-## 📂 Files
+## Files
 - `Olympic_medals_commented.ipynb`: Main notebook
 - `teams.csv`: Dataset used
-
-## 🔮 Future Improvements
-- Add more features (GDP, population)
-- Try other models (Random Forest, XGBoost)
-- Make it interactive with Streamlit or Gradio
