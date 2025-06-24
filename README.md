@@ -1,9 +1,7 @@
 # Olympic_medals_prediction
-Beginner ML project to predict number of olympic medals using previous data
+Beginner ML project using a linear regression model to predict how many medals a country will win based on past performance.
 
-This project uses a linear regression model to predict how many medals a country will win based on past performance.
-
-## 📊 Tools Used
+## Tools Used
 - Python, Pandas, Numpy, Matplotlib
 - Scikit-learn (Linear Regression)
 - Google Colab
