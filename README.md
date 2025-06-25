@@ -11,5 +11,5 @@ Beginner ML project using a linear regression model to predict how many medals a
 - MAE:  Approximately 4 medals
 
 ## Files
-- `Olympic_medals_commented.ipynb`: Main notebook
-- `teams.csv`: Dataset used
+- Olympic_medals.ipynb: Main notebook
+- teams.csv: Dataset used
